@@ -14,7 +14,7 @@ const Release = ({
     type,
     downloadPath,
 }) => {
-    const fullPicturePath = "../src/assets/" + picturePath;
+    const fullPicturePath = "./assets/" + picturePath;
     const linkCount = links.length;
 
     const [isOpen, setIsOpen] = useState(false);

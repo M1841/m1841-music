@@ -3,7 +3,7 @@ import { Download } from "./Icons";
 import "./styles/Releases.css";
 
 const DownloadButton = ({ downloadPath }) => {
-    const fullDownloadPath = "../src/music/" + downloadPath;
+    const fullDownloadPath = "./music/" + downloadPath;
 
     return (
         <a
