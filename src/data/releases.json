@@ -1,0 +1,423 @@
+{
+    "originals": [
+        {
+            "id": "original4",
+            "title": "songs from a darker timeline",
+            "picturePath": "songsFromADarkerTimeline.jpg",
+            "downloadPath": "songsFromADarkerTimeline.zip",
+            "links": [
+                {
+                    "platform": "spotify",
+                    "website": "Spotify",
+                    "address": "https://open.spotify.com/album/4K8dABAzOCnc92YME7WSLp"
+                },
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtube.com/playlist?list=OLAK5uy_k4LV1CMFhb7qbIcKRMQD6cISjj3LrXOUo"
+                },
+                {
+                    "platform": "youtubemusic",
+                    "website": "YouTube Music",
+                    "address": "https://music.youtube.com/playlist?list=OLAK5uy_k4LV1CMFhb7qbIcKRMQD6cISjj3LrXOUo"
+                },
+                {
+                    "platform": "applemusic",
+                    "website": "Apple Music",
+                    "address": "https://music.apple.com/ro/album/songs-from-a-darker-timeline-single/1656514122"
+                },
+                {
+                    "platform": "itunes",
+                    "website": "iTunes",
+                    "address": "https://geo.music.apple.com/ro/album/_/1656514122"
+                },
+                {
+                    "platform": "tidal",
+                    "website": "TIDAL",
+                    "address": "https://listen.tidal.com/album/262881764"
+                },
+                {
+                    "platform": "deezer",
+                    "website": "Deezer",
+                    "address": "https://www.deezer.com/en/album/380588777"
+                },
+                {
+                    "platform": "amazon",
+                    "website": "Amazon",
+                    "address": "https://amazon.com/music/player/albums/B0BNF4SPY8?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_VB1zatNyRzOxVG4ZUNPfrQ1T2"
+                },
+                {
+                    "platform": "amazonmusic",
+                    "website": "Amazon Music",
+                    "address": "https://music.amazon.com/albums/B0BNF4SPY8"
+                },
+                {
+                    "platform": "audiomack",
+                    "website": "Audiomack",
+                    "address": "https://audiomack.com/m1841/album/songs-from-a-darker-timeline"
+                },
+                {
+                    "platform": "boomplay",
+                    "website": "Boomplay",
+                    "address": "https://www.boomplay.com/albums/59269156"
+                },
+                {
+                    "platform": "pandora",
+                    "website": "Pandora",
+                    "address": "https://www.pandora.com/AL:19702771"
+                }
+            ]
+        },
+        {
+            "id": "original3",
+            "title": "In My Head",
+            "picturePath": "inMyHead.jpg",
+            "downloadPath": "M1841 - In My Head.mp3",
+            "links": [
+                {
+                    "platform": "spotify",
+                    "website": "Spotify",
+                    "address": "https://open.spotify.com/album/0CN0XzLeUHn4We3sVEqtFx"
+                },
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/in-my-head"
+                },
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/JoNUJisTHcA"
+                },
+                {
+                    "platform": "youtubemusic",
+                    "website": "YouTube Music",
+                    "address": "https://music.youtube.com/playlist?list=OLAK5uy_kab8_OMpW3_eJeC88AFDvgZ1xIXzwF3fc"
+                },
+                {
+                    "platform": "applemusic",
+                    "website": "Apple Music",
+                    "address": "https://music.apple.com/ro/album/in-my-head/1640733717"
+                },
+                {
+                    "platform": "itunes",
+                    "website": "iTunes",
+                    "address": "https://music.apple.com/ro/album/in-my-head-single/1640733717"
+                },
+                {
+                    "platform": "tidal",
+                    "website": "TIDAL",
+                    "address": "https://listen.tidal.com/album/244041150"
+                },
+                {
+                    "platform": "deezer",
+                    "website": "Deezer",
+                    "address": "https://www.deezer.com/en/album/348166417"
+                },
+                {
+                    "platform": "amazon",
+                    "website": "Amazon",
+                    "address": "https://amazon.com/music/player/albums/B0BB85JB39?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_RGJokHEoaIpju9zgYxrULUxc0"
+                },
+                {
+                    "platform": "amazonmusic",
+                    "website": "Amazon Music",
+                    "address": "https://music.amazon.com/albums/B0BB85JB39"
+                },
+                {
+                    "platform": "audiomack",
+                    "website": "Audiomack",
+                    "address": "https://audiomack.com/m1841/song/in-my-head"
+                },
+                {
+                    "platform": "boomplay",
+                    "website": "Boomplay",
+                    "address": "https://www.boomplay.com/albums/53200594"
+                },
+                {
+                    "platform": "pandora",
+                    "website": "Pandora",
+                    "address": "https://www.pandora.com/TR:77293791"
+                }
+            ]
+        },
+        {
+            "id": "original2",
+            "title": "Time Capsule",
+            "picturePath": "timeCapsule.jpg",
+            "downloadPath": "timeCapsule.zip",
+            "links": [
+                {
+                    "platform": "spotify",
+                    "website": "Spotify",
+                    "address": "https://open.spotify.com/album/3D1778VoQxbLmlFKU2REl4"
+                },
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/sets/time-capsule"
+                },
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/CTwuwTbjzwU"
+                },
+                {
+                    "platform": "youtubemusic",
+                    "website": "YouTube Music",
+                    "address": "https://music.youtube.com/playlist?list=OLAK5uy_mD3XE-XW9dXLA-VnYpIObYHYtYxyru29c"
+                },
+                {
+                    "platform": "applemusic",
+                    "website": "Apple Music",
+                    "address": "https://geo.music.apple.com/ro/album/_/1590336957"
+                },
+                {
+                    "platform": "itunes",
+                    "website": "iTunes",
+                    "address": "https://geo.music.apple.com/ro/album/_/1590336957"
+                },
+                {
+                    "platform": "tidal",
+                    "website": "TIDAL",
+                    "address": "https://listen.tidal.com/album/201229973"
+                },
+                {
+                    "platform": "deezer",
+                    "website": "Deezer",
+                    "address": "https://www.deezer.com/album/265880642"
+                },
+                {
+                    "platform": "amazon",
+                    "website": "Amazon",
+                    "address": "https://amazon.com/music/player/albums/B09JGJQ5GJ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_ErA1g2ZdqR25XDQQiGXtBahnz"
+                },
+                {
+                    "platform": "amazonmusic",
+                    "website": "Amazon Music",
+                    "address": "https://music.amazon.com/albums/B09JGJQ5GJ"
+                },
+                {
+                    "platform": "audiomack",
+                    "website": "Audiomack",
+                    "address": "https://audiomack.com/album/m1841/time-capsule"
+                }
+            ]
+        },
+        {
+            "id": "original1",
+            "title": "Serenity",
+            "picturePath": "serenity.jpg",
+            "downloadPath": "M1841 - Serenity.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/serenity-old-unreleased-song"
+                }
+            ]
+        }
+    ],
+    "remixes": [
+        {
+            "id": "remix9",
+            "title": "Know It All",
+            "artist": "The Band CAMINO",
+            "picturePath": "knowItAllRemix.jpg",
+            "downloadPath": "The Band Camino - Know It All - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/kPIDOGGT5Yk"
+                }
+            ]
+        },
+        {
+            "id": "remix8",
+            "title": "Replay",
+            "artist": "Iyaz",
+            "picturePath": "replayRemix.jpg",
+            "downloadPath": "Iyaz - Replay - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/VjgYJGOE8ys"
+                }
+            ]
+        },
+        {
+            "id": "remix7",
+            "title": "Save My Life",
+            "artist": "Nøll, Highlnd & Josh Rubin",
+            "picturePath": "saveMyLifeRemix.jpg",
+            "downloadPath": "Nøll, Highlnd & Josh Rubin - Save My Life - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/save-my-life-remix"
+                }
+            ]
+        },
+        {
+            "id": "remix6",
+            "title": "god.drugs.you",
+            "artist": "Luna Shadows",
+            "picturePath": "godDrugsYouRemix.jpg",
+            "downloadPath": "Luna Shadows - god_drugs_you - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "skiomusic",
+                    "website": "SKIO Music",
+                    "address": "https://skiomusic.com/makro140/7746a9dd-3f90-43c3-974b-e8faa5405b35"
+                }
+            ]
+        },
+        {
+            "id": "remix5",
+            "title": "Take What You Want",
+            "artist": "Post Malone, Ozzy Osbourne, Travis Scott",
+            "picturePath": "takeWhatYouWantRemix.jpg",
+            "downloadPath": "Post Malone, Ozzy Osbourne, Travis Scott - Take What You Want - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/KshHxLAfO-o"
+                }
+            ]
+        },
+        {
+            "id": "remix4",
+            "title": "This Could Be Us",
+            "subtitle": "M1841 DnB Edit",
+            "artist": "Virtual Riot, Modestep & Frank Zummo",
+            "picturePath": "thisCouldBeUsRemix.jpg",
+            "downloadPath": "Virtual Riot, Modestep & Frank Zummo - This Could Be Us - M1841 DnB Edit.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/virtual-riot-modestep-frank-zummo-this-could-be-us-m1841-dnb-edit"
+                }
+            ]
+        },
+        {
+            "id": "remix3",
+            "title": "LATE NIGHT KILLER",
+            "artist": "JULESTHEWULF",
+            "picturePath": "lateNightKillerRemix.jpg",
+            "downloadPath": "JULESTHEWULF - LATE NIGHT KILLER - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/late-night-killer-mm-remix"
+                },
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/fiAHZShooTI"
+                }
+            ]
+        },
+        {
+            "id": "remix2",
+            "title": "When You Say It",
+            "artist": "Just Kiddin",
+            "picturePath": "whenYouSayItRemix.jpg",
+            "downloadPath": "Just Kiddin - When You Say It - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/when-you-say-it-mm-remix"
+                },
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/jh27at4WXE8"
+                }
+            ]
+        },
+        {
+            "id": "remix1",
+            "title": "Mine",
+            "artist": "Felix Cartal & Sophie Simmons",
+            "picturePath": "mineRemix.jpg",
+            "downloadPath": "Felix Cartal & Sophie Simmons - Mine - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/mine-mm-remix"
+                },
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/o89GnjwdtCs"
+                }
+            ]
+        }
+    ],
+    "unreleased": [
+        {
+            "id": "unreleased3",
+            "title": "ID Showcase 3",
+            "subtitle": "09.22 -> 05.23",
+            "picturePath": "idShowcase3.jpg",
+            "downloadPath": "M1841 - ID Showcase 3.mp3",
+            "links": [
+                {
+                    "platform": "youtube",
+                    "website": "YouTube",
+                    "address": "https://youtu.be/j1lbXrYI5ys"
+                }
+            ]
+        },
+        {
+            "id": "unreleased2",
+            "title": "ID Showcase 2",
+            "subtitle": "02.22 -> 08.22",
+            "picturePath": "idShowcase2.jpg",
+            "downloadPath": "M1841 - ID Showcase 2.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/id-showcase-2"
+                }
+            ]
+        },
+        {
+            "id": "unreleased1",
+            "title": "ID Showcase 1",
+            "subtitle": "11.20 -> 02.22",
+            "picturePath": "idShowcase1.jpg",
+            "downloadPath": "M1841 - ID Showcase 1.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/id-showcase-1"
+                }
+            ]
+        },
+        {
+            "id": "unreleased0",
+            "title": "ID Showcase 0",
+            "subtitle": "09.19 -> 10.22",
+            "picturePath": "idShowcase0.jpg",
+            "downloadPath": "M1841 - ID Showcase 0.mp3",
+            "links": [
+                {
+                    "platform": "soundcloud",
+                    "website": "SoundCloud",
+                    "address": "https://soundcloud.com/m1841/id-showcase-0"
+                }
+            ]
+        }
+    ]
+}

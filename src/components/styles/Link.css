@@ -1,0 +1,40 @@
+.releaseLink {
+    list-style-type: none;
+    background-color: #232323;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    transition: all 100ms ease-in-out;
+    font-size: 1.25rem;
+    font-weight: 400;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+.releaseLink:hover {
+    background-color: #303030;
+}
+
+.platformIcon {
+    height: 2rem;
+    aspect-ratio: 1/1;
+}
+
+.platformName {
+    width: 100%;
+}
+
+.linkIcon {
+    height: 3rem;
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.5rem;
+    transition: all 100ms ease-in-out;
+}
+.linkIcon:hover {
+    background-color: #434343;
+}

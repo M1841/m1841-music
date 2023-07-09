@@ -1,0 +1,150 @@
+.releasesWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 3rem;
+    background-color: #0a0a0a;
+}
+
+.sectionTitle {
+    width: 100%;
+    max-width: 72rem;
+    font-size: 1.75rem;
+    font-weight: 600;
+    text-align: start;
+}
+
+.releaseCard {
+    width: 100%;
+    max-width: 72rem;
+    font-family: "Inter", sans-serif;
+    color: #fafafa;
+    border: none;
+    outline: none;
+    background-color: #171717;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.releaseCardHead {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    gap: 2rem;
+    overflow: hidden;
+    border-radius: 1rem;
+    transition: background 100ms ease-in-out;
+}
+.releaseCardHead:hover {
+    background-color: #1f1f1f;
+}
+.releasePicture {
+    height: 6rem;
+    width: 6rem;
+    border-radius: 0.5rem;
+    box-shadow: 1rem 1rem 10rem #0a0a0a;
+    transition: all 100ms ease-in-out;
+}
+
+.releaseText {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 0.5rem;
+}
+
+.releaseTitle {
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-align: start;
+}
+
+.releaseSubtitle {
+    font-weight: 400;
+    color: #a3a3a3;
+    text-align: start;
+}
+
+.releaseArtist {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #a3a3a3;
+    text-align: start;
+}
+
+.releaseButton {
+    height: 36px;
+    border-radius: 0.5rem;
+    aspect-ratio: 1/1;
+    transition: background-color 100ms ease-in-out;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.releaseButton:hover {
+    background-color: #2f2f2f;
+}
+
+.releaseCardBody {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 100%;
+    gap: 1rem;
+}
+
+.fullBottomCorners {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.rotate180deg {
+    transform: scaleY(-1);
+}
+
+.downloadButton {
+    color: #b09bd3;
+    text-decoration: none;
+    height: 6rem;
+    aspect-ratio: 1/1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.33rem;
+    font-weight: 500;
+    gap: 0.25rem;
+    border-radius: 0.5rem;
+    position: absolute;
+    filter: opacity(0);
+    transition: all 100ms ease-in-out;
+    outline: 0 solid #64557c75;
+}
+.downloadButton:hover {
+    background-color: #b09bd333;
+    filter: opacity(1);
+}
+.downloadButton:active {
+    background-color: #b09bd325;
+    outline: 3px solid #b09bd350;
+    filter: opacity(1);
+}
+
+.pictureDownloadGroup {
+    display: flex;
+}
+.pictureDownloadGroup:hover .releasePicture {
+    filter: opacity(0.25) saturate(0.5) brightness(0.5);
+}
+.pictureDownloadGroup:active .releasePicture {
+    filter: opacity(0.25) saturate(0.5) brightness(0.5);
+}
