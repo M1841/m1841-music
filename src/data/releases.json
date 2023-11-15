@@ -220,6 +220,20 @@
     ],
     "remixes": [
         {
+            "id": "remix10",
+            "title": "kidsgonemad",
+            "artist": "ISOxo",
+            "picturePath": "kidsgonemadRemix.jpg",
+            "downloadPath": "ISOxo - kidsgonemad - M1841 Remix.mp3",
+            "links": [
+                {
+                    "platform": "youtube",
+                    "website": "youtube",
+                    "address": "https://youtu.be/7NaDYFO3jik"
+                }
+            ]
+        },
+        {
             "id": "remix9",
             "title": "Know It All",
             "artist": "The Band CAMINO",
